@@ -1,0 +1,12 @@
+aiohttp==2.0.7
+async-timeout==1.2.1
+autobahn==17.5.1
+chardet==3.0.2
+multidict==2.1.4
+six==1.10.0
+txaio==2.7.1
+ujson==1.35
+uvloop
+wsaccel==0.6.2
+yarl==0.10.1
+zope.interface==4.4.0
